@@ -35,6 +35,12 @@ In experiments, Puzzle-CAM outperformed previous state-of-the-art methods using 
 - 4 x Titan RTX GPUs
 
 # Usage
+## Trained weights 3 x Tesla V100 GPUs
+```
+链接：https://pan.baidu.com/s/1uvvu1KdeIhxfbfIAFj3vwQ 
+提取码：arfb 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V5的分享
+```
 
 ## Install python dependencies
 ```bash
